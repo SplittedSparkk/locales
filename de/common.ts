@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/ActionDialog.qml" line="7"/>
         <source>Action Picker</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktionsauswahl</translation>
     </message>
 </context>
 <context>
@@ -14,7 +14,7 @@
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="74"/>
         <source>Basic Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfache Einstellungen</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="110"/>
@@ -24,7 +24,7 @@
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="116"/>
         <source>Behavior after execution</source>
-        <translation type="unfinished"></translation>
+        <translation>Verhalten nach Ausführung</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
@@ -34,17 +34,17 @@
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
         <source>Close Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher schließen</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
         <source>Keep Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher behalten</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="126"/>
         <source>Run Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="143"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="../../src/imports/coreplugin/qml/NERvGear/ActionSource.qml" line="39"/>
         <source>Are you sure to execute this action?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass sie this Aktion ausführen möchten?</translation>
     </message>
 </context>
 <context>
@@ -73,7 +73,7 @@
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/BackgroundDialog.qml" line="14"/>
         <source>Background Picker</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundpicker</translation>
     </message>
 </context>
 <context>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/BackgroundPicker.qml" line="11"/>
         <source>Image files (*.PNG;*.JPG;*.JPEG;*.BMP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilddateien</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../../src/common/cpp/CrashHandler.cpp" line="15"/>
         <source>Oops!</source>
-        <translation type="unfinished"></translation>
+        <translation>Upps!</translation>
     </message>
     <message>
         <location filename="../../src/common/cpp/CrashHandler.cpp" line="16"/>
@@ -132,7 +132,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="57"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden...</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="557"/>
@@ -142,7 +142,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="571"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Update Einstellungen</translation>
     </message>
 </context>
 <context>
@@ -150,7 +150,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="22"/>
         <source>Basic Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="27"/>
@@ -160,7 +160,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="28"/>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuell</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="28"/>
@@ -190,37 +190,37 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="109"/>
         <source>Update Interval</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Updateintervall</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="112"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Niemals</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="164"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Millisekunden</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunden</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>Stunden</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Tage</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
@@ -251,7 +251,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="97"/>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Font Größe</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="109"/>
@@ -271,7 +271,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
@@ -297,7 +297,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/IconPicker.qml" line="17"/>
         <source>Image files (*.PNG;*.JPG;*.JPEG;*.BMP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder (*.PNG;*.JPG;*.JPEG;*.BMP)</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/IconPicker.qml" line="18"/>
@@ -307,7 +307,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/IconPicker.qml" line="19"/>
         <source>Executable files (*.EXE)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführbare Dateien (*.EXE)</translation>
     </message>
 </context>
 <context>
@@ -323,12 +323,12 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="31"/>
         <source>All supported files (*.PNG;*.JPG;*.JPEG;*.BMP;*.ICO;*.GIF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle unterstüzen Dateien (*.PNG;*.JPG;*.JPEG;*.BMP;*.ICO;*.GIF)</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="32"/>
         <source>Image files (*.PNG;*.JPG;*.JPEG;*.BMP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder (*.PNG;*.JPG;*.JPEG;*.BMP)</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="33"/>
@@ -343,7 +343,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="160"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
 </context>
 <context>
@@ -351,12 +351,12 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="68"/>
         <source>Image Gallery...</source>
-        <translation type="unfinished"></translation>
+        <translation >Bildergallerie</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="73"/>
         <source>Local Files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale Dateien...</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="78"/>
@@ -386,27 +386,27 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="291"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="338"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfohlen</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="343"/>
         <source>Light Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Helles Thema</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="348"/>
         <source>Dark Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Dunkles Thema</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="354"/>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr...</translation>
     </message>
 </context>
 <context>
@@ -490,12 +490,12 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/imports/webkitplugin/cpp/QmlContextMenuRequest.cpp" line="206"/>
         <source>Developer tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Entwicklertools</translation>
     </message>
     <message>
         <location filename="../../src/imports/webkitplugin/cpp/QmlContextMenuRequest.cpp" line="209"/>
         <source>Open external browser</source>
-        <translation type="unfinished"></translation>
+        <translation>In externem Browser öffnen</translation>
     </message>
 </context>
 <context>
@@ -503,12 +503,12 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="388"/>
         <source>This page is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite ist nicht verfügbar</translation>
     </message>
     <message>
         <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="389"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuladen</translation>
     </message>
 </context>
 <context>
@@ -516,12 +516,12 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="74"/>
         <source>Program Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Programm starten</translation>
     </message>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="75"/>
         <source>Program Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Programm bereit</translation>
     </message>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="77"/>
@@ -536,7 +536,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="80"/>
         <source>Message Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht anzeigen</translation>
     </message>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="81"/>
@@ -556,27 +556,27 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="85"/>
         <source>Message Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht verstecken</translation>
     </message>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="89"/>
         <source>Message Notify</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht Benachrichtigung</translation>
     </message>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="90"/>
         <source>System Notify</source>
-        <translation type="unfinished"></translation>
+        <translation>System Benachrichtigung</translation>
     </message>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="91"/>
         <source>System Forbid</source>
-        <translation type="unfinished"></translation>
+        <translation>System verboten</translation>
     </message>
     <message>
         <location filename="../../src/imports/coreplugin/cpp/CorePlugin.cpp" line="92"/>
         <source>System Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemalarm</translation>
     </message>
 </context>
 <context>
@@ -584,7 +584,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/PickerDescriptionText.qml" line="16"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschreibung</translation>
     </message>
 </context>
 <context>
@@ -600,22 +600,22 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="708"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="710"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="712"/>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles speichern</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="714"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="716"/>
@@ -640,52 +640,52 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="724"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="726"/>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Erneut versuchen</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="728"/>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorieren</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="730"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="732"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="734"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwerfen</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="736"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Hilfe</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="738"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="740"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../../../../Library/Qt/src/qtbase/src/gui/kernel/qplatformtheme.cpp" line="742"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -693,7 +693,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/imports/privateplugin/qml/NERvGear/Private/Shared.qml" line="73"/>
         <source>No Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Operation</translation>
     </message>
 </context>
 <context>
@@ -701,12 +701,12 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/ValueRangePreference.qml" line="13"/>
         <source>Minimum Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimaler Wert</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/ValueRangePreference.qml" line="23"/>
         <source>Maximum Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximaler Wert</translation>
     </message>
 </context>
 </TS>
